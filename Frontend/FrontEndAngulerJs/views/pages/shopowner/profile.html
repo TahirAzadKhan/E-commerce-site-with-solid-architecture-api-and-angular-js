@@ -1,0 +1,148 @@
+<section class="ftco-section">
+  <nav
+    class="
+      navbar navbar-expand-lg navbar-dark
+      ftco_navbar
+      bg-dark
+      ftco-navbar-light
+    "
+    id="ftco-navbar"
+  >
+    <div class="container">
+      <a class="navbar-brand" href="">E-Hut Bazar</a>
+      <form class="searchform order-sm-start order-lg-last">
+        <div class="form-group d-flex">
+          <input type="text" class="form-control pl-3" placeholder="Search" />
+          <button type="submit" placeholder="" class="form-control search">
+            <span class="fa fa-search"></span>
+          </button>
+        </div>
+      </form>
+      <div class="order-sm-start order-lg-last">
+        <a href="#!/Logout" class="nav-link">Logout</a>
+      </div>
+
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#ftco-nav"
+        aria-controls="ftco-nav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="fa fa-bars"></span> Menu
+      </button>
+      <div class="collapse navbar-collapse" id="ftco-nav">
+        <ul class="navbar-nav m-auto">
+          <li class="nav-item">
+            <a href="#!/shopowner/Home" class="nav-link">Home</a>
+          </li>
+
+          <li class="nav-item active">
+            <a href="#!/shopowner/Profile" class="nav-link">Profile</a>
+          </li>
+          <li class="nav-item">
+            <a href="#!/shopowner/allproduct" class="nav-link">Products</a>
+          </li>
+          <li class="nav-item">
+            <a href="#!/shopowner/delivery" class="nav-link">Delivery info</a>
+          </li>
+       
+
+         
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- END nav -->
+</section>
+<!-------
+<div>
+  <div style="margin-left: 500px">
+    <div style="margin-left: 150px">
+      <img
+        src="views/assects/img-01.png"
+        alt=""
+        srcset=""
+        height="300"
+        width="250"
+      />
+    </div>
+
+    <h1 style="margin-left: 150px">{{profile.ShopO_Name}}</h1>
+    <br />
+    <h4><b>Username</b>: {{profile.ShopO_Username}}</h4>
+    <h4><b>Email</b>: {{profile.ShopO_Email}}</h4>
+    <h4><b>Phone</b>: {{profile.ShopO_Phone}}</h4>
+    <h4><b>Shop Name</b>: {{profile.ShopO_Shopname}}</h4>
+    <h4><b>Description</b>: {{profile.ShopO_Description}}</h4>
+  </div>
+</div>
+----->
+<div class="limiter">
+  <div class="container-login100">
+    <div class="wrap-login100">
+      <div class="login100-pic js-tilt" data-tilt>
+        <img src="views/assects/img-01.png" alt="IMG">
+      </div>
+
+      
+        <span class="login100-form-title">
+          Shop Owner Profile
+        </span>
+        <a href="#!/shopowner/Update" class="">Update</a>
+        <table>
+
+        <tr>
+        <td>
+          <legend>
+
+            <h5>{{profile.ShopO_Name}}</h5>
+        </legend>
+        </td>
+        </tr>
+        
+
+        <tr>
+        <td>
+          <legend>
+            <h5><b>Email</b>: {{profile.ShopO_Email}}</h5>
+        </legend>
+        </td>
+        </tr>
+          
+        <tr>
+        <td>
+          <legend>
+
+            <h5><b>Phone</b>: {{profile.ShopO_Phone}}</h5>
+        </legend>
+        </td>
+        </tr>
+          
+
+        <tr>
+        <td>
+          <legend>
+            <h5><b>Shop Name</b>: {{profile.ShopO_Shopname}}</h5>
+      </legend>
+        </td>
+        </tr>
+         
+
+        <tr>
+        <td>
+          <legend>
+
+            <h5><b>Description</b>: {{profile.ShopO_Description}}</h5>
+      </legend>
+        </td>
+        </tr>
+        </table>
+
+        </div>
+    
+    </div>
+  </div>
+</div>

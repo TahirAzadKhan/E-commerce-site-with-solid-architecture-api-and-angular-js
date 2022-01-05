@@ -1,0 +1,18 @@
+E:\University\ASP.NET\API Project\EHutbazar\BEL\bin\Debug\BEL.dll
+E:\University\ASP.NET\API Project\EHutbazar\BEL\bin\Debug\BEL.pdb
+E:\University\ASP.NET\API Project\EHutbazar\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+E:\University\ASP.NET\API Project\EHutbazar\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+E:\University\ASP.NET\API Project\EHutbazar\BEL\obj\Debug\BEL.dll
+E:\University\ASP.NET\API Project\EHutbazar\BEL\obj\Debug\BEL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BEL\bin\Debug\BEL.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BEL\bin\Debug\BEL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BEL\obj\Debug\BEL.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BEL\obj\Debug\BEL.pdb
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BEL\bin\Debug\BEL.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BEL\bin\Debug\BEL.pdb
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BEL\obj\Debug\BEL.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BEL\obj\Debug\BEL.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BEL\obj\Debug\BEL.pdb

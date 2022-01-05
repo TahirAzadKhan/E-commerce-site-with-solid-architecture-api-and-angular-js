@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<!--===============================================================================================-->	
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+<!--===============================================================================================-->
+    <!-- Angular lib -->
+    <script src="app/lib/angular.min.js"></script>
+
+    <script src="app/lib/angular.route.min.js"></script>
+
+    <!-- Route code is in here -->
+    <script src="app/app.js"></script>
+
+    <!-- Fontawosum -->
+    <script
+      src="https://kit.fontawesome.com/64d58efce2.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <!-- custom CSS file -->
+    <link rel="stylesheet" href="content/adminlogin.css" />
+    <link rel="stylesheet" href="content/navbar.css" />
+    
+    <title>EhutBazar</title>
+  </head>
+
+  <body ng-app="myApp">
+    <div ng-view></div>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <!--===============================================================================================-->	
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+  <!--===============================================================================================-->
+    <script src="vendor/bootstrap/js/popper.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+  <!--===============================================================================================-->
+    <script src="vendor/select2/select2.min.js"></script>
+  <!--===============================================================================================-->
+    <script src="vendor/tilt/tilt.jquery.min.js"></script>
+    <script >
+      $('.js-tilt').tilt({
+        scale: 1.1
+      })
+    </script>
+  <!--===============================================================================================-->
+    <script src="js/main.js"></script>
+  </body>
+</html>
+
+<!-- Add Services here -->
+<script src="app/services/ajax.js"></script>
+<script src="app/services/interCeptor.js"></script>
+
+<!-- Add Controllers here -->
+<script src="app/controllers/login.js"></script>
+<script src="app/controllers/logout.js"></script>
+<script src="app/controllers/profile.js"></script>
+<script src="app/controllers/allproduct.js"></script>
+<script src="app/controllers/home.js"></script>
+<script src="app/controllers/registration.js"></script>
+<script src="app/controllers/addproduct.js"></script>
+<script src="app/controllers/deleteproduct.js"></script>
+<script src="app/controllers/updateprofile.js"></script>

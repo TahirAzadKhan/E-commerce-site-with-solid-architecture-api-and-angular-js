@@ -1,0 +1,48 @@
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\BLL.dll
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\BLL.pdb
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\AutoMapper.dll
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\BEL.dll
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\DAL.dll
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\EntityFramework.dll
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\BEL.pdb
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\DAL.pdb
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\DAL.dll.config
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\AutoMapper.xml
+E:\University\ASP.NET\API Project\EHutbazar\BLL\bin\Debug\EntityFramework.xml
+E:\University\ASP.NET\API Project\EHutbazar\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\University\ASP.NET\API Project\EHutbazar\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\University\ASP.NET\API Project\EHutbazar\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\University\ASP.NET\API Project\EHutbazar\BLL\obj\Debug\BLL.dll
+E:\University\ASP.NET\API Project\EHutbazar\BLL\obj\Debug\BLL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\BLL.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\BLL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\AutoMapper.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\BEL.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\DAL.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\EntityFramework.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\BEL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\DAL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\DAL.dll.config
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\AutoMapper.xml
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\EntityFramework.xml
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\BLL.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\BLL.pdb
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\AutoMapper.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\BEL.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\BEL.pdb
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\DAL.dll.config
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\AutoMapper.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\BLL\obj\Debug\BLL.pdb

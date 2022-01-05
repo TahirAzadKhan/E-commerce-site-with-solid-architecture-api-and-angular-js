@@ -1,0 +1,178 @@
+<!----------------
+<div class="loginAdmin">
+  <div class="container">
+    <div class="forms-container">
+      <div class="signin-signup">
+        <form ng-submit="login()" class="sign-in-form">
+          <h2 class="title">Sign in</h2>
+          <div class="input-field">
+            <i class="fas fa-user"></i>
+            <input
+              type="text"
+              placeholder="Username"
+              ng-model="data.Admin_Username"
+            />
+          </div>
+          <div class="input-field">
+            <i class="fas fa-lock"></i>
+            <input
+              type="password"
+              placeholder="Password"
+              ng-model="data.Admin_Password"
+            />
+          </div>
+          <input type="submit" value="Login" class="btn solid" />
+          <p class="social-text">Or Sign in with social platforms</p>
+          <div class="social-media">
+            <a href="#" class="social-icon">
+              <i class="fab fa-facebook-f"></i>
+            </a>
+            <a href="#" class="social-icon">
+              <i class="fab fa-twitter"></i>
+            </a>
+            <a href="#" class="social-icon">
+              <i class="fab fa-google"></i>
+            </a>
+            <a href="#" class="social-icon">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <div class="panels-container">
+      <div class="panel left-panel">
+        <div class="content">
+          <h3>Are you admin ?</h3>
+          <p>
+            <b> Welcome Admin!</b> We are thrilled to have you at our office.
+            You're going to be a valuable asset to our company, and we can't
+            wait to see all that you accomplish. The entire team of [name of the
+            company] is thrilled to welcome you on board.
+          </p>
+          <a href="#!/Home" class="btn transparent" id="sign-up-btn">GO Back</a>
+        </div>
+        <img src="views/assects/log.svg" class="image" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+----------------------------------------------------------------------->
+<section class="ftco-section">
+  <nav
+    class="
+      navbar navbar-expand-lg navbar-dark
+      ftco_navbar
+      bg-dark
+      ftco-navbar-light
+    "
+    id="ftco-navbar"
+  >
+    <div class="container">
+      <a class="navbar-brand" href="aboutus.html">E-Hut Bazar</a>
+      <form action="#" class="searchform order-sm-start order-lg-last">
+        <div class="form-group d-flex">
+          <input type="text" class="form-control pl-3" placeholder="Search" />
+          <button type="submit" placeholder="" class="form-control search">
+            <span class="fa fa-search"></span>
+          </button>
+        </div>
+      </form>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#ftco-nav"
+        aria-controls="ftco-nav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="fa fa-bars"></span> Menu
+      </button>
+      <div class="collapse navbar-collapse" id="ftco-nav">
+        <ul class="navbar-nav m-auto">
+          <li class="nav-item active">
+            <a href="#!/" class="nav-link">Home</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="#!Products" class="nav-link">Product</a>
+          </li>
+          <li class="nav-item">
+            <a href="#!Shoplists" class="nav-link">Shop List</a>
+          </li>
+
+          <li class="nav-item">
+            <a href="#!Contact" class="nav-link">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a href="#!shopowner" class="nav-link">Login/Registration</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- END nav -->
+</section>
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+				<div class="login100-pic js-tilt" data-tilt>
+					<img src="images/img-01.png" alt="IMG">
+				</div>
+
+				<form ng-submit="login()" class="login100-form validate-form">
+					<span class="login100-form-title">
+						Shop Owner Login
+					</span>
+
+					<div class="wrap-input100 validate-input" data-validate = "Valid username is required: ex@abc.xyz">
+						<input class="input100" type="text" name="username" placeholder="username" ng-model="data.ShopO_Username">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate = "Password is required">
+						<input class="input100" type="password" name="pass" placeholder="Password" ng-model="data.ShopO_Password">
+						<span class="focus-input100"></span>
+						<span class="symbol-input100">
+							<i class="fa fa-lock" aria-hidden="true"></i>
+						</span>
+					</div>
+					
+					<div class="container-login100-form-btn">
+						<input type="submit"  class="login100-form-btn">
+							
+					
+					</div>
+
+					<div class="text-center p-t-12">
+						<span class="txt1">
+							Forgot
+						</span>
+						<a class="txt2" href="#">
+							Username / Password?
+						</a>
+					</div>
+
+					<div class="text-center p-t-136">
+						<a class="txt2" href="#!/Login/createnewaccount">
+							Create your Account
+							<i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
+						</a>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	
+	
+
+	
+
+
+

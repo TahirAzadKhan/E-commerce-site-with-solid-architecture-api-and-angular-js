@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EhutBazardbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="Admin_Id" />
+    </Key>
+    <Property Name="Admin_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Admin_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Admin_Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Admin_Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Admin_Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Admin_Phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="User_Type" Type="int" Nullable="false" />
+    <Property Name="Admin_Type" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Affiliator">
+    <Key>
+      <PropertyRef Name="Affiliate_Id" />
+    </Key>
+    <Property Name="Affiliate_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Affiliate_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Affiliate_Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Affiliate_Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Affiliate_Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Affiliate_Phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Affiliate_UserType" Type="int" Nullable="false" />
+    <Property Name="Affiliate_Code" Type="varchar" MaxLength="50" />
+    <Property Name="Authorization" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Customer_Id" />
+    </Key>
+    <Property Name="Customer_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Customer_Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Customer_Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Customer_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Customer_Address" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Customer_Phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Customer_Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Customer_Gender" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Notice">
+    <Key>
+      <PropertyRef Name="Notice_Id" />
+    </Key>
+    <Property Name="Notice_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Notice_Post" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Post_Date" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Admin_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Request_Shopowner">
+    <Key>
+      <PropertyRef Name="ShopO_Id" />
+    </Key>
+    <Property Name="ShopO_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ShopO_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Shopname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Description" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="User_Type" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Shop_Product">
+    <Key>
+      <PropertyRef Name="Product_Id" />
+    </Key>
+    <Property Name="Product_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Product_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Product_Description" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Product_Stock" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Product_Price" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Id" Type="int" />
+  </EntityType>
+  <EntityType Name="ShopOwner">
+    <Key>
+      <PropertyRef Name="ShopO_Id" />
+    </Key>
+    <Property Name="ShopO_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ShopO_Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Phone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Shopname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ShopO_Description" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="User_Type" Type="int" Nullable="false" />
+    <Property Name="User_Validation" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Token">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_Id" Type="int" Nullable="false" />
+    <Property Name="AccessToken" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="CreateDate" Type="datetime" Nullable="false" />
+    <Property Name="ExpiredDate" Type="datetime" />
+    <Property Name="UserType" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="EhutBazardbModelStoreContainer">
+    <EntitySet Name="Admin" EntityType="Self.Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Affiliator" EntityType="Self.Affiliator" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Notice" EntityType="Self.Notice" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Request_Shopowner" EntityType="Self.Request_Shopowner" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Shop_Product" EntityType="Self.Shop_Product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ShopOwner" EntityType="Self.ShopOwner" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Token" EntityType="Self.Token" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

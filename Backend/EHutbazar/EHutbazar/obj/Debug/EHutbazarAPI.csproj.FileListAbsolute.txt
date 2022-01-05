@@ -1,0 +1,240 @@
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\EHutbazar.dll.config
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\EHutbazar.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\EHutbazar.pdb
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\csc.exe
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\csc.exe.config
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\csc.rsp
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\csi.exe
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\csi.exe.config
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\csi.rsp
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.AppContext.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Collections.Immutable.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Console.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Globalization.Calendars.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.IO.Compression.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.IO.FileSystem.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Net.Http.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Net.Sockets.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Reflection.Metadata.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.ValueTuple.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Xml.XPath.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\vbc.exe
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\vbc.exe.config
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\vbc.rsp
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\VBCSCompiler.exe
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\roslyn\VBCSCompiler.exe.config
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\BEL.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\BLL.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\Newtonsoft.Json.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\System.Net.Http.Formatting.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\System.Web.Http.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\System.Web.Http.WebHost.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\AutoMapper.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\DAL.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\EntityFramework.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\BEL.pdb
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\BLL.pdb
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\Newtonsoft.Json.xml
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\System.Net.Http.Formatting.xml
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\System.Web.Http.xml
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\System.Web.Http.WebHost.xml
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\AutoMapper.xml
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\DAL.pdb
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\DAL.dll.config
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\bin\EntityFramework.xml
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\obj\Debug\EHutbazarAPI.csproj.AssemblyReference.cache
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\obj\Debug\EHutbazarAPI.csproj.CoreCompileInputs.cache
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\obj\Debug\EHutbazarAPI.csproj.CopyComplete
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\obj\Debug\EHutbazar.dll
+E:\University\ASP.NET\API Project\EHutbazar\EHutbazar\obj\Debug\EHutbazar.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazarAPI.csproj.AssemblyReference.cache
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazarAPI.csproj.CoreCompileInputs.cache
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazar.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazar.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EHutbazar.dll.config
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EHutbazar.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EHutbazar.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csc.exe
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csc.exe.config
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csc.rsp
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csi.exe
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csi.exe.config
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csi.rsp
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.Managed.Core.targets
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.AppContext.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Collections.Immutable.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Console.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Globalization.Calendars.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.IO.Compression.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.IO.FileSystem.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Net.Http.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Net.Sockets.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Reflection.Metadata.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.ValueTuple.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Xml.XmlDocument.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Xml.XPath.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\vbc.exe
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\vbc.exe.config
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\vbc.rsp
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\VBCSCompiler.exe
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\VBCSCompiler.exe.config
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\BEL.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\BLL.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\Newtonsoft.Json.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Net.Http.Formatting.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.WebHost.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\AutoMapper.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\DAL.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EntityFramework.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\BEL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\BLL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\Newtonsoft.Json.xml
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Net.Http.Formatting.xml
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.xml
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.WebHost.xml
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\AutoMapper.xml
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\DAL.pdb
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\DAL.dll.config
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EntityFramework.xml
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazarAPI.csproj.CopyComplete
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Cors.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.Cors.dll
+E:\University\ASP.NET\API Project\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.Cors.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EHutbazar.dll.config
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EHutbazar.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EHutbazar.pdb
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csc.exe
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csi.exe
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csi.exe.config
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.AppContext.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Console.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.IO.Compression.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Net.Http.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.ValueTuple.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\BEL.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\BLL.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\DAL.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Net.Http.Formatting.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Cors.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.Cors.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.WebHost.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\AutoMapper.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EntityFramework.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\BEL.pdb
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\BLL.pdb
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\DAL.pdb
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\DAL.dll.config
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.Cors.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Net.Http.Formatting.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\System.Web.Http.WebHost.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\AutoMapper.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\bin\EntityFramework.xml
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazarAPI.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazarAPI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazarAPI.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazar.dll
+C:\Users\LENOVO\Desktop\Backend\BackendAsp.NetAPI\BackendAsp.NetAPI\EHutbazar\EHutbazar\obj\Debug\EHutbazar.pdb

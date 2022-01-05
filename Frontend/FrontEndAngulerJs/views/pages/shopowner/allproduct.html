@@ -1,0 +1,101 @@
+<section class="ftco-section">
+    <nav
+      class="
+        navbar navbar-expand-lg navbar-dark
+        ftco_navbar
+        bg-dark
+        ftco-navbar-light
+      "
+      id="ftco-navbar"
+    >
+      <div class="container">
+        <a class="navbar-brand" href="">E-Hut Bazar</a>
+        <form class="searchform order-sm-start order-lg-last">
+          <div class="form-group d-flex">
+            <input type="text" class="form-control pl-3" placeholder="Search" />
+            <button type="submit" placeholder="" class="form-control search">
+              <span class="fa fa-search"></span>
+            </button>
+          </div>
+        </form>
+        <div class="order-sm-start order-lg-last">
+          <a href="#!/Logout" class="nav-link">Logout</a>
+        </div>
+  
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#ftco-nav"
+          aria-controls="ftco-nav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="fa fa-bars"></span> Menu
+        </button>
+        <div class="collapse navbar-collapse" id="ftco-nav">
+          <ul class="navbar-nav m-auto">
+            <li class="nav-item active">
+              <a href="#!/shopowner/Home" class="nav-link">Home</a>
+            </li>
+  
+            <li class="nav-item">
+              <a href="#!/shopowner/Profile" class="nav-link">Profile</a>
+            </li>
+            <li class="nav-item">
+                <a href="#!/shopowner/allproduct" class="nav-link">Products</a>
+              </li>
+              <li class="nav-item">
+                <a href="#!/shopowner/delivery" class="nav-link">Delivery info</a>
+              </li>
+          
+            
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- END nav -->
+  </section>
+  <h3 style="margin-left: 600px">ALL Products</h3>
+  <div style="margin-left: 210px; margin-right: 210px">
+    <div
+      class="card"
+      style="
+        width: 22rem;
+        float: left;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 5px;
+      "
+      ng-repeat="a in allproduct"
+    >
+      <img src="views/assects/product.png" class="card-img-top" alt="..." />
+      <div class="card-body">
+        <h5 class="card-title">{{a.Product_Name}}</h5>
+        <p class="card-text"></p>
+      </div>
+      <ul class="list-group list-group-flush">
+        <li class="list-group-item">Description: {{a.Product_Description}}</li>
+        <li class="list-group-item">Stock: {{a.Product_Stock}}</li>
+        <li class="list-group-item">Price: {{a.Product_Price}}</li>
+        
+      </ul>
+      <div class="card-body">
+        <a href=" !/Admin/Update/{{a.Product_Id}}" class="card-link">Update</a>
+        <a href="#!/shopowner/Delete/{{a.Product_Id}}" class="card-link">Delete</a>
+       
+      </div>
+    </div>
+  </div>
+
+<!-- partial -->
+<div class="text-center p-t-136">
+  <a class="txt2" href="#!/shopowner/addproduct">
+    Add new product
+    <i class="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
+  </a>
+</div>  
+
+    
+    
+
